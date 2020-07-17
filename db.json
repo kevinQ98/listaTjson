@@ -1,8 +1,11 @@
-{  
-  "listatablas": [
-   {"nombreTabla": "Citas", "descTabla": "Citas Programadas o Pasadas"},
-   {"nombreTabla": "Medicos", "descTabla": "Medicos Disponibles},
-   {"nombreTabla": "Especialidades", "descTabla": "Especialidad Disponible"},
-   {"nombreTabla": "Paciente", "descTabla": "Mi Informacion"}
-   ]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Citas"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
